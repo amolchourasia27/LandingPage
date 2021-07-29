@@ -1,2 +1,2 @@
-# WebDev_projects_landing_page
+# Landing Page
 Demo landing page inspired from texts.com
